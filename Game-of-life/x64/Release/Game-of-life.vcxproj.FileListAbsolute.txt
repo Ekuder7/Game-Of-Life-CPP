@@ -1,0 +1,1 @@
+C:\Users\Ekuder\source\repos\Game-of-life\Game-of-life\x64\Release\Game-of-life.vcxproj.CopyComplete

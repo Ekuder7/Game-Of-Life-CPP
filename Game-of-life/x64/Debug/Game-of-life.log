@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ekuder\source\repos\Game-of-life\Game-of-life\source\main.cpp(33,8): error C2676: бинарный "[": "std::set<Square,std::less<Square>,std::allocator<Square>>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\Ekuder\source\repos\Game-of-life\Game-of-life\source\main.cpp(70,23): error C2440: инициализация: невозможно преобразовать "const Square" в "Square &"
+C:\Users\Ekuder\source\repos\Game-of-life\Game-of-life\source\main.cpp(70,23): message : В результате преобразования теряются квалификаторы
